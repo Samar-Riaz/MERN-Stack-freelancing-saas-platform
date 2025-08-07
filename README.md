@@ -1,4 +1,4 @@
-# 🚀 Freelancia – Private SaaS Freelancing Platform
+# 🚀 PandaHire – Private SaaS Freelancing Platform
 
 A secure, full-featured freelancing marketplace platform tailored for private communities, enabling admins to post jobs and freelancers/interns to bid, collaborate, and deliver projects seamlessly.
 
